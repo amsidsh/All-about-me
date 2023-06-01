@@ -1,5 +1,5 @@
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="C:\Users\Shanvi\Downloads\greetings.gif" alt="Hello World" />
+    <img src="file:///C:/Users/Shanvi/Downloads/greetings.gif" alt="Hello World" />
 </p>
 
 <h1 align="center">
