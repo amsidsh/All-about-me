@@ -1,5 +1,5 @@
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="Hello World" />
+    <img src="C:\Users\Shanvi\Downloads\greetings.gif" alt="Hello World" />
 </p>
 
 <h1 align="center">
@@ -16,7 +16,7 @@
 </h3>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fdata-analysts-will-soon-have-their-own-tony-stark-moment-with-northstar%2F&psig=AOvVaw1a8dO3aVsI9Sua_LdCYOA5&ust=1685686115294000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJD--qO0of8CFQAAAAAdAAAAABAD" alt="working developer">
+    <img src="C:\Users\Shanvi\Downloads\tony-stark (1).gif" alt="working developer">
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
