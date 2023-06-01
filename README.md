@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Hi <img src="https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" height='26' alt='there'>! I'm Siddharth Ganta
+    Hi <img src="https://static-00.iconduck.com/assets.00/waving-hand-sign-emoji-2048x2048-r71rstzv.png" height='26' alt='there'>! I'm Siddharth Ganta
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
