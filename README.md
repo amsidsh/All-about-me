@@ -16,8 +16,7 @@
 </h3>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="C:![tony-stark (1)](https://github.com/amsidsh/README/assets/135155660/0169359e-963b-4428-9e28-ff3622ebcbe3)
-\Users\Shanvi\Downloads\tony-stark (1).gif" alt="working developer">
+    <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif" alt="working developer">
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
