@@ -15,8 +15,6 @@
 </p>
 
 - 🔭  I'm a Computer Science Graduate from KITSW Warangal, Telangana, India.<br>
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, AR or Web Development.<br>
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 ! I am happy to help.<br>
 - 😄 I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.<br>
 
 <p align="center" style='margin: 16px 4px 8px;'>
